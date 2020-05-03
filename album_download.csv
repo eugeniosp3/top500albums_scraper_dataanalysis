@@ -1,0 +1,501 @@
+,rank,name,date,genre,score
+0,1 ,"Prince - Sign ""O"" the Times","March 31, 1987",Pop Rock,100
+1,2 ,The Beatles - Revolver,"August 5, 1966",Pop Rock,100
+2,3 ,Paul Simon - Graceland,"August 12, 1986",Singer-Songwriter,100
+3,4 ,Joni Mitchell - Court and Spark,"January 1, 1974",Folk,100
+4,5 ,Miles Davis - Kind of Blue,"August 17, 1959",Jazz,100
+5,6 ,Bob Dylan - Blood on the Tracks,"January 20, 1975",Singer-Songwriter,100
+6,7 ,Slint - Spiderland,"March 27, 1991",Post-Rock,100
+7,8 ,Pixies - Doolittle,"April 18, 1989",Alternative Rock,100
+8,9 ,Pink Floyd - The Dark Side of the Moon,"March 1, 1973",Progressive Rock,100
+9,10 ,The Beatles - Abbey Road,"September 26, 1969",Pop Rock,100
+10,11 ,David Bowie - Hunky Dory,"December 17, 1971",Glam Rock,100
+11,12 ,Steve Reich - Music for 18 Musicians,"January 1, 1978",Classical,100
+12,13 ,Joni Mitchell - Blue,"June 22, 1971",Folk Rock,100
+13,14 ,Miles Davis - Bitches Brew,"April 1, 1970",Jazz Fusion,100
+14,15 ,The Jimi Hendrix Experience - Electric Ladyland,"October 25, 1968",Psychedelic Rock,100
+15,16 ,Grateful Dead - Workingman's Dead,"June 14, 1970",Folk Rock,100
+16,17 ,The Band - The Band,"September 22, 1969",Rock,100
+17,18 ,The Rolling Stones - Sticky Fingers,"April 23, 1971",Blues Rock,100
+18,19 ,The Clash - London Calling,"December 14, 1979",Punk,100
+19,20 ,The Beach Boys - Pet Sounds,"May 16, 1966",Psychedelic Rock,100
+20,21 ,The Stone Roses - The Stone Roses,"March 13, 1989",Alternative Rock,100
+21,22 ,The Replacements - Let It Be,"October 2, 1984",Alternative Rock,100
+22,23 ,The Smiths - The Queen is Dead,"June 16, 1986",Jangle Pop,100
+23,24 ,Maria Schneider Orchestra - The Thompson Fields,"June 2, 2015",Unknown,100
+24,25 ,Elvis Presley - From Elvis In Memphis,"June 1, 1969",Soul,100
+25,26 ,Pretenders - Pretenders,"January 11, 1980",New Wave,100
+26,27 ,Derek and The Dominos - Layla and Other Assorted Love Songs,"November 1, 1970",Blues Rock,100
+27,28 ,Elvis Presley - Elvis Presley,"March 23, 1956",Rock & Roll,100
+28,29 ,The Rolling Stones - Between the Buttons,"January 20, 1967",Pop Rock,100
+29,30 ,Ramones - Rocket to Russia,"November 4, 1977",Punk Rock,100
+30,31 ,Wire - Pink Flag,"December 1, 1977",Art Punk,100
+31,32 ,Santana - Abraxas,"September 1, 1970",Latin Rock,100
+32,33 ,Neil Young - Tonight's The Night,"June 20, 1975",Rock,100
+33,34 ,The Congos - Heart of the Congos,"January 1, 1977",Roots Reggae,100
+34,35 ,Van Morrison - Astral Weeks,"November 1, 1968",Singer-Songwriter,100
+35,36 ,Bob Dylan - John Wesley Harding,"December 27, 1967",Folk Rock,100
+36,37 ,Television - Marquee Moon,"February 8, 1977",Art Punk,100
+37,38 ,Grateful Dead - American Beauty,"November 1, 1970",Folk Rock,100
+38,39 ,Bob Dylan - Blonde on Blonde,"May 16, 1966",Folk Rock,100
+39,40 ,Bob Dylan - Bringing It All Back Home,"March 27, 1965",Folk Rock,100
+40,41 ,Stevie Wonder - Innervisions,"August 3, 1973",Soul,100
+41,42 ,The Rolling Stones - Beggars Banquet,"December 6, 1968",Rock,100
+42,43 ,The Rolling Stones - Let It Bleed,"December 5, 1969",Blues Rock,100
+43,44 ,Metallica - Ride the Lightning,"July 27, 1984",Thrash Metal,100
+44,45 ,The Tony Williams Lifetime - Emergency!,,Jazz Fusion,100
+45,46 ,Million Dead - A Song To Ruin,"April 28, 2003",Unknown,100
+46,47 ,David Holland Quartet - Conference of the Birds,,Avant-Garde Jazz,100
+47,48 ,Antihero - This Is An Emergency,"February 28, 2005",Unknown,100
+48,49 ,The Flatlanders - More a Legend Than a Band,,Unknown,100
+49,50 ,Return To Forever - Light as a Feather,,Jazz Fusion,100
+50,51 ,Antônio Carlos Jobim - Wave,"September 1, 1967",Bossa Nova,100
+51,52 ,Taj Mahal - Taj Mahal,"January 1, 1968",Blues,100
+52,53 ,Ray Charles - Modern Sounds in Country and Western Music Volume Two,"October 1, 1962",Unknown,100
+53,54 ,Mahavishnu Orchestra - Birds of Fire,"March 29, 1973",Jazz Fusion,100
+54,55 ,Terry Riley - In C,"April 18, 1967",Minimalism,100
+55,56 ,Bill Withers - Still Bill,"May 1, 1972",Soul,100
+56,57 ,Iris DeMent - Infamous Angel,"September 1, 1992",Unknown,100
+57,58 ,Alice Coltrane - Journey in Satchidananda,"January 1, 1971",Avant-Garde Jazz,100
+58,59 ,Richard & Linda Thompson - I Want to See the Bright Lights Tonight,"April 1, 1974",Folk Rock,100
+59,60 ,Mahavishnu Orchestra - The Inner Mounting Flame,"August 14, 1971",Jazz Fusion,100
+60,61 ,Barbra Streisand - The Broadway Album,"November 5, 1985",Traditional Pop,100
+61,62 ,Emperor - In the Nightside Eclipse,"February 21, 1994",Black Metal,100
+62,63 ,Electric Light Orchestra - Eldorado,"October 1, 1974",Art Rock,100
+63,64 ,Buffalo Springfield - Buffalo Springfield Again,"October 30, 1967",Folk Rock,100
+64,65 ,Elvis Presley - For LP Fans Only,"February 6, 1959",Rock & Roll,100
+65,66 ,Alan Jackson - A Lot About Livin' (And a Little 'bout Love),"October 6, 1992",Country,100
+66,67 ,Mary J. Blige - What's the 411?,"July 28, 1992",R&B,100
+67,68 ,Joe Jackson - Look Sharp!,"March 5, 1979",New Wave,100
+68,69 ,"P.M. Dawn - Of the Heart, of the Soul and of the Cross: The Utopian Experience","August 6, 1991",Hip Hop,100
+69,70 ,Miles Davis Quintet - Steamin' with The Miles Davis Quintet,"May 1, 1961",Jazz,100
+70,71 ,Moby Grape - Moby Grape,"June 6, 1967",Folk Rock,100
+71,72 ,Keaton Henson - Romantic Works,"June 16, 2014",Modern Classical,100
+72,73 ,The Police - Zenyatta Mondatta,"October 3, 1980",New Wave,100
+73,74 ,EPMD - Strictly Business,"August 30, 1988",Hip Hop,100
+74,75 ,Tangerine Dream - Phaedra,"January 20, 1974",Electronic,100
+75,76 ,Boz Scaggs - Silk Degrees,"February 1, 1976",Pop Rock,100
+76,77 ,Elton John - Honky Château,"May 19, 1972",Pop Rock,100
+77,78 ,Ray Charles - Modern Sounds in Country and Western Music,"April 1, 1962",Soul,100
+78,79 ,John Prine - John Prine,"January 1, 1971",Country,100
+79,80 ,Stevie Wonder - Talking Book,"October 28, 1972",Soul,100
+80,81 ,Steely Dan - Countdown to Ecstasy,"July 1, 1973",Pop Rock,100
+81,82 ,Simon & Garfunkel - Bookends,"April 3, 1968",Folk Rock,100
+82,83 ,Randy Newman - 12 Songs,"April 1, 1970",Singer-Songwriter,100
+83,84 ,The Go-Betweens - 16 Lovers Lane,"August 1, 1988",Jangle Pop,100
+84,85 ,Richard & Linda Thompson - Shoot Out the Lights,"March 15, 1982",Folk Rock,100
+85,86 ,Marvin Gaye - Let's Get It On,"August 28, 1973",Soul,100
+86,87 ,The Allman Brothers Band - Eat a Peach,"February 12, 1972",Southern Rock,100
+87,88 ,Jimmy Cliff - The Harder They Come,"July 7, 1972",Reggae,100
+88,89 ,Rod Stewart - Every Picture Tells a Story,"May 1, 1971",Rock,100
+89,90 ,The Who - My Generation,"December 3, 1965",Rock,100
+90,91 ,Miles Davis - In a Silent Way,"July 30, 1969",Jazz Fusion,100
+91,92 ,Captain Beefheart - Trout Mask Replica,"June 16, 1969",Blues Rock,100
+92,93 ,Kraftwerk - Autobahn,"November 0, 1974",Krautrock,100
+93,94 ,James Taylor - Sweet Baby James,"February 1, 1970",Singer-Songwriter,100
+94,95 ,Aretha Franklin - Lady Soul,"January 22, 1968",Soul,100
+95,96 ,Charles Mingus - Oh Yeah,"January 1, 1962",Jazz,100
+96,97 ,Boogie Down Productions - Criminal Minded,"March 3, 1987",Hip Hop,100
+97,98 ,Elvis Presley - Elvis,"October 19, 1956",Rock & Roll,100
+98,99 ,The Mothers of Invention - We're Only in It for the Money,"March 4, 1968",Progressive Rock,100
+99,100 ,Throbbing Gristle - 20 Jazz Funk Greats,"December 1, 1979",Industrial,100
+100,101 ,Big Star - Third/Sister Lovers,"January 1, 1978",Power Pop,100
+101,102 ,Brian Eno - Before and After Science,"December 10, 1977",Art Rock,100
+102,103 ,Van Halen - Van Halen,"February 10, 1978",Hard Rock,100
+103,104 ,Creedence Clearwater Revival - Willy and the Poor Boys,"November 10, 1969",Roots Rock,100
+104,105 ,Creedence Clearwater Revival - Green River,"August 5, 1969",Roots Rock,100
+105,106 ,"Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols","October 27, 1977",Punk,100
+106,107 ,Wire - Chairs Missing,"August 1, 1978",Post-Punk,100
+107,108 ,The Velvet Underground - Loaded,"September 1, 1970",Pop Rock,100
+108,109 ,The Jimi Hendrix Experience - Axis: Bold as Love,"December 1, 1967",Psychedelic Rock,100
+109,110 ,The Jimi Hendrix Experience - Are You Experienced,"May 12, 1967",Psychedelic Rock,100
+110,111 ,The Who - Who's Next,"August 14, 1971",Hard Rock,100
+111,112 ,Hüsker Dü - New Day Rising,"January 1, 1985",Post-Hardcore,100
+112,113 ,The Clash - The Clash,"April 8, 1977",Punk,100
+113,114 ,Tom Waits - Rain Dogs,"September 30, 1985",Rock,100
+114,115 ,Pink Floyd - Wish You Were Here,"September 12, 1975",Progressive Rock,100
+115,116 ,R.E.M. - Automatic for the People,"October 5, 1992",Alternative Rock,100
+116,117 ,The Beatles - Rubber Soul,"December 3, 1965",Pop Rock,100
+117,118 ,Sonic Youth - Sister,"June 1, 1987",Alternative Rock,100
+118,119 ,The Stooges - Funhouse,"July 7, 1970",Protopunk,99
+119,120 ,Led Zeppelin - Led Zeppelin II,"October 22, 1969",Hard Rock,99
+120,121 ,Fleetwood Mac - Rumours,"February 4, 1977",Pop Rock,99
+121,122 ,Can - Ege Bamyasi,"November 1, 1972",Krautrock,99
+122,123 ,Bruce Springsteen - Tunnel of Love,"October 9, 1987",Pop Rock,99
+123,124 ,Nick Drake - Five Leaves Left,"September 1, 1969",Folk,99
+124,125 ,The Band - Music from Big Pink,"July 1, 1968",Roots Rock,99
+125,126 ,Prince - Dirty Mind,"October 8, 1980",Funk,99
+126,127 ,Elvis Costello & The Attractions - This Year's Model,"March 17, 1978",New Wave,99
+127,128 ,The Stooges - Raw Power,"February 7, 1973",Protopunk,99
+128,129 ,Brian Eno - Another Green World,"September 1, 1975",Art Rock,99
+129,130 ,David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars,"June 6, 1972",Glam Rock,99
+130,131 ,U2 - Achtung Baby,"November 18, 1991",Alternative Rock,99
+131,132 ,The Beatles - Sgt. Pepper's Lonely Hearts Club Band,"June 1, 1967",Pop Rock,98
+132,133 ,Nick Lowe - Jesus of Cool,"March 1, 1978",Power Pop,98
+133,134 ,The Zombies - Odessey and Oracle,"April 19, 1968",Psychedelic Pop,98
+134,135 ,Led Zeppelin - Led Zeppelin IV,"November 8, 1971",Hard Rock,98
+135,136 ,Talking Heads - Remain in Light,"October 8, 1980",New Wave,98
+136,137 ,The Beatles - Help!,"August 6, 1965",Pop Rock,98
+137,138 ,Al Green - I'm Still in Love with You,"October 23, 1972",Soul,98
+138,139 ,The Beatles - A Hard Day's Night,"July 10, 1964",Pop Rock,98
+139,140 ,The Jesus and Mary Chain - Psychocandy,"November 1, 1985",Noise Pop,98
+140,141 ,Michael Jackson - Off the Wall,"August 10, 1979",R&B,98
+141,142 ,The Modern Lovers - The Modern Lovers,"August 1, 1976",Protopunk,98
+142,143 ,Randy Newman - Good Old Boys,"September 10, 1974",Singer-Songwriter,98
+143,144 ,XTC - Skylarking,"October 27, 1986",Psychedelic Pop,98
+144,145 ,Carole King - Tapestry,"February 10, 1971",Singer-Songwriter,98
+145,146 ,Bob Dylan & The Band - The Basement Tapes,"June 26, 1975",Folk Rock,98
+146,147 ,Patti Smith - Horses,"December 13, 1975",Rock,98
+147,148 ,Talk Talk - Spirit of Eden,"September 16, 1988",Post-Rock,98
+148,149 ,The Rolling Stones - Some Girls,"June 9, 1978",Rock,98
+149,150 ,Stevie Wonder - Songs in the Key of Life,"September 28, 1976",Soul,98
+150,151 ,Milton Nascimento & Lô Borges - Clube Da Esquina,"January 1, 1972",MPB,98
+151,152 ,The Beatles - The Beatles,"November 22, 1968",Pop Rock,97
+152,153 ,Paul McCartney & Linda McCartney - Ram,"May 17, 1971",Pop Rock,97
+153,154 ,Steely Dan - Aja,"September 23, 1977",Pop Rock,97
+154,155 ,Simon & Garfunkel - Bridge Over Troubled Water,"January 26, 1970",Folk Rock,97
+155,156 ,"Crosby, Stills & Nash - Crosby, Stills & Nash","May 29, 1969",Singer-Songwriter,97
+156,157 ,The Rolling Stones - Aftermath,"April 15, 1966",Blues Rock,97
+157,158 ,Bob Dylan - The Freewheelin' Bob Dylan,"May 27, 1963",Folk,97
+158,159 ,Isis - Oceanic,"September 16, 2002",Post-Metal,97
+159,160 ,µ-Ziq - Tango n' Vectif,"November 0, 1993",IDM,97
+160,161 ,John Zorn - The Circle Maker,"March 17, 1998",Jazz,97
+161,162 ,Caetano Veloso - Caetano Veloso,"May 18, 1968",Psychedelic Rock,97
+162,163 ,U2 - The Joshua Tree,"March 9, 1987",Rock,97
+163,164 ,Massive Attack - Blue Lines,"August 6, 1991",Trip Hop,97
+164,165 ,Willie Nelson - Red Headed Stranger,"May 1, 1975",Country,97
+165,166 ,Tom Petty and the Heartbreakers - Damn the Torpedoes,"October 19, 1979",Heartland Rock,97
+166,167 ,Led Zeppelin - Houses of the Holy,"March 28, 1973",Rock,97
+167,168 ,Glenn Gould - Bach: The Goldberg Variations,,Unknown,97
+168,169 ,Glenn Gould - Bach: The Goldberg Variations,,Unknown,97
+169,170 ,Todd Rundgren - Something/Anything?,"February 1, 1972",Pop Rock,97
+170,171 ,Ensemble Signal - Steve Reich: Music for 18 Musicians,"May 12, 2015",Unknown,97
+171,172 ,The Mothers of Invention - Uncle Meat,"April 21, 1969",Experimental Rock,97
+172,173 ,The Orb - U.F.Orb,"July 6, 1992",Ambient Techno,97
+173,174 ,Son Volt - Trace,"September 19, 1995",Alt-Country,97
+174,175 ,Red House Painters - Red House Painters (Rollercoaster),"May 24, 1993",Folk Rock,97
+175,176 ,Black Sabbath - Black Sabbath,"February 13, 1970",Heavy Metal,97
+176,177 ,Refused - The Shape of Punk to Come,"October 27, 1998",Hardcore Punk,97
+177,178 ,Elvis Costello & The Attractions - Get Happy!!,"February 15, 1980",New Wave,97
+178,179 ,Frank Sinatra - A Swingin' Affair!,"January 1, 1957",Vocal Jazz,97
+179,180 ,Frank Sinatra - Songs for Swingin' Lovers!,"March 1, 1956",Vocal Jazz,97
+180,181 ,Roxy Music - For Your Pleasure,"March 24, 1973",Glam Rock,97
+181,182 ,Love - Forever Changes,"November 1, 1967",Psychedelic Rock,97
+182,183 ,Aretha Franklin - I Never Loved a Man the Way I Love You,"March 10, 1967",Soul,97
+183,184 ,Talking Heads - Fear of Music,"August 3, 1979",New Wave,97
+184,185 ,The Who - The Who Sell Out,"December 15, 1967",Rock,97
+185,186 ,Metallica - Master of Puppets,"March 3, 1986",Thrash Metal,97
+186,187 ,Serge Gainsbourg - Histoire de Melody Nelson,"March 1, 1971",Art Pop,97
+187,188 ,Albert Ayler - Spiritual Unity,"July 10, 1964",Jazz,97
+188,189 ,Gil Scott-Heron and Brian Jackson - Winter in America,"May 1, 1974",Soul,97
+189,190 ,The Kinks - Something Else by The Kinks,"September 15, 1967",Pop Rock,97
+190,191 ,Neil Young - On The Beach,"July 16, 1974",Folk Rock,96
+191,192 ,Bruce Springsteen - Born in the U.S.A.,"June 4, 1984",Rock,96
+192,193 ,Public Image Ltd. - Metal Box,"November 23, 1979",Post-Punk,96
+193,194 ,Public Enemy - It Takes a Nation of Millions to Hold Us Back,"April 14, 1988",Hip Hop,96
+194,195 ,Kraftwerk - Trans-Europe Express,"March 1, 1977",Progressive Electronic,96
+195,196 ,Liz Phair - Exile in Guyville,"June 22, 1993",Indie Rock,96
+196,197 ,Brian Wilson - SMiLE,"September 28, 2004",Rock,96
+197,198 ,Creedence Clearwater Revival - Cosmo's Factory,"July 17, 1970",Rock,96
+198,199 ,Talking Heads - More Songs About Buildings and Food,"July 21, 1978",Post-Punk,96
+199,200 ,Black Sabbath - Paranoid,"September 18, 1970",Heavy Metal,96
+200,201 ,Merle Haggard - Mama Tried,"January 1, 1968",Country,96
+201,202 ,Nina Simone - High Priestess of Soul,"January 1, 1967",Vocal Jazz,96
+202,203 ,Manuel Göttsching - E2-E4,"January 1, 1984",Electronic,96
+203,204 ,Bruce Springsteen - Born to Run,"August 25, 1975",Rock,96
+204,205 ,Al Green - Let's Stay Together,"January 31, 1972",Soul,96
+205,206 ,Bennie Maupin - The Jewel in the Lotus,,Jazz,96
+206,207 ,Jackie McLean Quintet - Dynasty,"November 5, 1988",Unknown,96
+207,208 ,Taj Mahal - The Natch'l Blues,"December 23, 1968",Blues,96
+208,209 ,Terry Riley - A Rainbow in Curved Air,"January 1, 1969",Electronic,96
+209,210 ,Dwight Yoakam - This Time,"March 23, 1993",Country,96
+210,211 ,Charlie Rich - Pictures and Paintings,"April 14, 1992",Country,96
+211,212 ,The Isley Brothers - 3 + 3,"August 7, 1973",Funk,96
+212,213 ,Reba McEntire - For My Broken Heart,"October 1, 1991",Country Pop,96
+213,214 ,Jodeci - Forever My Lady,"August 27, 1991",Unknown,96
+214,215 ,Freestyle Fellowship - Innercity Griots,"April 28, 1993",Hip Hop,96
+215,216 ,Nina Simone - Nina Simone Sings the Blues,"January 1, 1967",Blues,96
+216,217 ,Steely Dan - Katy Lied,"March 1, 1975",Pop Rock,96
+217,218 ,Moby - Moby,"July 27, 1992",Techno,96
+218,219 ,The Feelies - Crazy Rhythms,"April 1, 1980",Post-Punk,96
+219,220 ,DJ Shadow - Endtroducing...,"November 19, 1996",Instrumental Hip Hop,96
+220,221 ,The Future Sound Of London - Lifeforms,"May 16, 1994",Ambient Techno,95
+221,222 ,Public Enemy - Fear of a Black Planet,"April 10, 1990",Hip Hop,95
+222,223 ,Björk - Homogenic,"September 23, 1997",Art Pop,95
+223,224 ,Oasis - Definitely Maybe,"August 30, 1994",Britpop,95
+224,225 ,Weezer - Weezer (Blue Album),"May 10, 1994",Alternative Rock,95
+225,226 ,Oscar Peterson - Exclusively for My Friends,,Unknown,95
+226,227 ,Mark Hollis - Mark Hollis,"February 2, 1998",Singer-Songwriter,95
+227,228 ,The La's - The La's,"October 1, 1990",Jangle Pop,95
+228,229 ,Sly & The Family Stone - Stand!,"May 3, 1969",Funk,95
+229,230 ,Public Enemy - Apocalypse 91... The Enemy Strikes Black,"October 3, 1991",Hip Hop,95
+230,231 ,Robert Wyatt - Rock Bottom,"July 26, 1974",Progressive Rock,95
+231,232 ,John Lennon - Imagine,"September 9, 1971",Rock,95
+232,233 ,Can - Tago Mago,"February 0, 1971",Krautrock,95
+233,234 ,Brian Eno - Taking Tiger Mountain (By Strategy),"November 14, 1974",Art Rock,95
+234,235 ,Neil Young & Crazy Horse - Everybody Knows This Is Nowhere,"May 14, 1969",Rock,95
+235,236 ,Nick Drake - Pink Moon,"February 25, 1972",Folk,95
+236,237 ,The Rolling Stones - Exile on Main St.,"May 12, 1972",Blues Rock,95
+237,238 ,The Notorious B.I.G. - Ready to Die,"September 13, 1994",Hip Hop,95
+238,239 ,Joy Division - Closer,"July 18, 1980",Post-Punk,95
+239,240 ,Wu-Tang Clan - Enter The Wu-Tang (36 Chambers),"November 9, 1993",Hip Hop,95
+240,241 ,Porter Ricks - Biokinetics,"August 30, 1996",Dub Techno,95
+241,242 ,The Soft Boys - Underwater Moonlight,"June 28, 1980",Neo-Psychedelia,95
+242,243 ,T. Rex - Electric Warrior,"September 24, 1971",Glam Rock,95
+243,244 ,Nine Inch Nails - Pretty Hate Machine,"October 20, 1989",Industrial Rock,95
+244,245 ,Elvis Costello - My Aim Is True,"July 22, 1977",New Wave,95
+245,246 ,Anonymous 4 - Marie et Marion,"April 7, 2014",Unknown,95
+246,247 ,DJ Polo - Killer Kuts,,Unknown,95
+247,248 ,The Feminine Complex - Livin' Love,,Unknown,95
+248,249 ,Jinjer - Macro,"October 25, 2019",Progressive Metal,95
+249,250 ,Callum Easter - Here or Nowhere,"April 5, 2019",Unknown,95
+250,251 ,Freddie Hubbard - Ready for Freddie,"April 0, 1962",Jazz,95
+251,252 ,Adam Stafford - Fire Behind The Curtain,"May 4, 2018",Unknown,95
+252,253 ,Jack Logan - Mood Elevator,"January 16, 1996",Unknown,95
+253,254 ,"Michael Hurley, The Unholy Modal Rounders, Jeffrey Frederick, & The Clamtones - Have Moicy!","January 0, 1976",Folk,95
+254,255 ,Johnny Winter - Johnny Winter,"April 0, 1969",Unknown,95
+255,256 ,Blue Rose Code - The Water of Leith,"October 27, 2017",Unknown,95
+256,257 ,Aretha Franklin - Amazing Grace,"June 1, 1972",Gospel,95
+257,258 ,Gamma Ray - Land Of The Free,"May 29, 1995",Power Metal,95
+258,259 ,Pacifica Quartet - Elliott Carter: String Quartets Nos. 1 & 5,"January 1, 2008",Unknown,95
+259,260 ,'68 - Two Parts Viper,"June 2, 2017",Noise Rock,95
+260,261 ,Xinlisupreme - Murder License,"July 10, 2002",Unknown,95
+261,262 ,DJ Shadow & Cut Chemist - Brainfreeze,,Unknown,95
+262,263 ,Jessye Norman - In the Spirit: Sacred Music for Christmas,"October 15, 1996",Unknown,95
+263,264 ,Jonathan Biss - Schumann: Fantasie • Kreisleriana • Arabeske,"January 8, 2007",Unknown,95
+264,265 ,Joe Lovano - Universal Language,"May 4, 1993",Unknown,95
+265,266 ,Peter Holsapple & Chris Stamey - Mavericks,"January 1, 1991",Unknown,95
+266,267 ,The Wildhearts - P.H.U.Q.,"May 1, 1995",Hard Rock,95
+267,268 ,Spastic Ink - Ink Complete,"August 12, 1997",Unknown,95
+268,269 ,Philip Glass - Einstein on the Beach,"January 1, 1979",Minimalism,95
+269,270 ,Melechesh - Emissaries,"October 30, 2006",Melodic Black Metal,95
+270,271 ,The Temptations - Meet the Temptations,"March 20, 1964",Unknown,95
+271,272 ,Latin Alliance - Latin Alliance,"August 6, 1991",Unknown,95
+272,273 ,Peter Case - Torn Again,"August 25, 1995",Unknown,95
+273,274 ,Salif Keita - Amen,"July 22, 1991",Unknown,95
+274,275 ,Khalifa Ould Eide & Dimi Mint Abba - Moorish Music From Mauritania,"January 1, 1990",Unknown,95
+275,276 ,Ella Fitzgerald - The Voice of Jazz,"December 10, 2013",Vocal Jazz,95
+276,277 ,Deicide - Deicide,"June 25, 1990",Death Metal,95
+277,278 ,Orphaned Land - Mabool: The Story of the Three Sons of Seven,"February 23, 2004",Folk Metal,95
+278,279 ,The Incredible String Band - The Hangman's Beautiful Daughter,"March 0, 1968",Psychedelic Folk,95
+279,280 ,The Numbers Band - Jimmy Bell's Still in Town,"January 1, 1976",Blues Rock,95
+280,281 ,Cecil Taylor - Unit Structures,"January 1, 1966",Jazz,95
+281,282 ,Billy Joe Shaver - Tramp on Your Street,"August 10, 1993",Unknown,95
+282,283 ,Bill Morrissey - Night Train,"September 17, 1993",Unknown,95
+283,284 ,Cryptopsy - None So Vile,"July 3, 1996",Death Metal,95
+284,285 ,Toots & The Maytals - In the Dark,"March 1, 1973",Roots Reggae,95
+285,286 ,Aphrodite's Child - 666,"June 1, 1972",Progressive Rock,95
+286,287 ,Donna Summer - Bad Girls,"April 25, 1979",Disco,95
+287,288 ,Bruno Pronsato - Why Can't We Be Like Us?,"January 7, 2008",Unknown,95
+288,289 ,Arvo Pärt - Tabula Rasa,"September 1, 1984",Modern Classical,95
+289,290 ,Dream Warriors - And Now the Legacy Begins,"April 23, 1991",Unknown,95
+290,291 ,Chano Pozo - El Tambor de Cuba,"January 1, 2001",Unknown,95
+291,292 ,Jackson Browne - Running on Empty,"December 6, 1977",Unknown,95
+292,293 ,Estrellas De Areito - Los Heroes,"July 6, 1999",Unknown,95
+293,294 ,George Strait - Honkytonkville,"June 10, 2003",Unknown,95
+294,295 ,Baaba Maal - Baayo,"May 21, 1991",Unknown,95
+295,296 ,T Bone Burnett - The Criminal Under My Own Hat,"July 14, 1992",Singer-Songwriter,95
+296,297 ,The Tractors - The Tractors,"August 2, 1994",Unknown,95
+297,298 ,Jacky Terrasson - Reach,"February 20, 1996",Unknown,95
+298,299 ,Julie Miller - Blue Pony,"April 15, 1997",Unknown,95
+299,300 ,George Strait - Blue Clear Sky,"April 23, 1996",Unknown,95
+300,301 ,Todd Snider - Step Right Up,"April 23, 1996",Unknown,95
+301,302 ,Patty Loveless - When Fallen Angels Fly,"August 23, 1994",Unknown,95
+302,303 ,Terry Allen - Human Remains,"January 23, 1996",Unknown,95
+303,304 ,Ty England - Ty England,"August 15, 1995",Unknown,95
+304,305 ,Joe Diffie - Third Rock from the Sun,"July 26, 1994",Unknown,95
+305,306 ,The Bottle Rockets - The Brooklyn Side,"November 9, 1994",Roots Rock,95
+306,307 ,Fred Hersch Trio - Dancing in the Dark,"December 1, 1992",Unknown,95
+307,308 ,Frank Sinatra & Antônio Carlos Jobim - Francis Albert Sinatra & Antônio Carlos Jobim,"March 20, 1967",Unknown,95
+308,309 ,Patty Loveless - Only What I Feel,"April 20, 1993",Unknown,95
+309,310 ,Wynonna Judd - Tell Me Why,"May 11, 1993",Unknown,95
+310,311 ,The B-52's - Wild Planet,"September 27, 1980",New Wave,95
+311,312 ,Sting - Ten Summoner's Tales,"March 5, 1993",Pop Rock,95
+312,313 ,Naughty By Nature - Naughty By Nature,"September 3, 1991",Hip Hop,95
+313,314 ,Digital Underground - Sons of the P,"October 15, 1991",Unknown,95
+314,315 ,Son Of Bazerk - Bazerk Bazerk Bazerk,"May 14, 1991",Unknown,95
+315,316 ,"Bobby Previte - Weather Clear, Track Fast","September 1, 1991",Unknown,95
+316,317 ,Bill Bruford's Earthworks - All Heaven Broke Loose,"September 27, 1991",Unknown,95
+317,318 ,Eric Clapton - 461 Ocean Boulevard,"July 1, 1974",Blues Rock,95
+318,319 ,The Cardigans - Life,"March 1, 1995",Indie Pop,95
+319,320 ,7 Year Bitch - ¡Viva Zapata!,"June 28, 1994",Grunge,95
+320,321 ,Death - Scream Bloody Gore,"May 25, 1987",Death Metal,95
+321,322 ,Kirsty MacColl - Tropical Brainstorm,"March 20, 2000",Unknown,95
+322,323 ,Marty Brown - High & Dry,"August 20, 1991",Unknown,95
+323,324 ,Travis Tritt - It's All About To Change,"May 28, 1991",Unknown,95
+324,325 ,Trisha Yearwood - Trisha Yearwood,"July 2, 1991",Unknown,95
+325,326 ,Aaron Tippin - You've Got to Stand for Something,"January 29, 1991",Unknown,95
+326,327 ,The Dictators - D.F.F.D.,"October 30, 2001",Unknown,95
+327,328 ,James Chance & The Contortions - Buy,"September 1, 1979",No Wave,95
+328,329 ,The Blackout Pact - Hello Sailor,"September 26, 2005",Unknown,95
+329,330 ,Bad Brains - I Against I,"November 1, 1986",Alternative Metal,95
+330,331 ,Denim - Back in Denim,"November 11, 1992",Indie Pop,95
+331,332 ,Willie Nelson - Stardust,"April 1, 1978",Standards,95
+332,333 ,Living Colour - Vivid,"May 3, 1988",Hard Rock,95
+333,334 ,The Moody Blues - Days Of Future Passed,"November 10, 1967",Baroque Pop,95
+334,335 ,Barbra Streisand - Barbra Joan Streisand,"August 1, 1971",Soft Rock,95
+335,336 ,Terence Trent D'Arby - Symphony or Damn,"May 11, 1993",Unknown,95
+336,337 ,Aceyalone - All Balls Don't Bounce,"October 24, 1995",Unknown,95
+337,338 ,Magazine - Real Life,"June 1, 1978",Post-Punk,95
+338,339 ,Between the Buried and Me - Alaska,"September 6, 2005",Metalcore,95
+339,340 ,Voivod - Nothingface,"October 13, 1989",Progressive Metal,95
+340,341 ,Alan Jackson - Don't Rock the Jukebox,"May 14, 1991",Unknown,95
+341,342 ,Chuck Berry - St. Louis to Liverpool,"November 1, 1964",Rock & Roll,95
+342,343 ,Burzum - Hvis lyset tar oss,"April 1, 1994",Atmospheric Black Metal,95
+343,344 ,Rancid - ...And Out Come the Wolves,"August 22, 1995",Punk Rock,95
+344,345 ,Seal - Seal,"May 1, 1991",Soul,95
+345,346 ,Jackson 5 - ABC,"May 8, 1970",Unknown,95
+346,347 ,Elvis Presley - His Hand in Mine,"November 1, 1960",Gospel,95
+347,348 ,Sade - Diamond Life,"July 16, 1984",Sophisti-Pop ,95
+348,349 ,Vince Gill - The Key,"August 11, 1998",Unknown,95
+349,350 ,Vince Gill - I Still Believe in You,"September 1, 1992",Unknown,95
+350,351 ,Miles Davis Quintet - Workin' with The Miles Davis Quintet,"September 1, 1959",Jazz,95
+351,352 ,Elvis Presley - Elvis' Christmas Album,"October 15, 1957",Christmas,95
+352,353 ,Bob Marley & The Wailers - Exodus,"June 3, 1977",Roots Reggae,95
+353,354 ,Al Green - Gets Next to You,"August 14, 1971",Soul,95
+354,355 ,Corrosion of Conformity - Blind,"November 5, 1991",Sludge Metal,95
+355,356 ,Cynic - Focus,"September 13, 1993",Progressive Metal,95
+356,357 ,Neil Young - Freedom,"October 2, 1989",Singer-Songwriter,95
+357,358 ,Curtis Mayfield - Curtis,"September 1, 1970",Soul,95
+358,359 ,Neil Young - Comes a Time,"October 21, 1978",Folk Rock,95
+359,360 ,Iron Maiden - Powerslave,"September 3, 1984",Heavy Metal,95
+360,361 ,Siouxsie and the Banshees - Peepshow,"September 5, 1988",Post-Punk,95
+361,362 ,Against Me! - Is Reinventing Axl Rose,"March 31, 2002",Punk Rock,95
+362,363 ,Lynyrd Skynyrd - Street Survivors,"October 17, 1977",Southern Rock,95
+363,364 ,In Flames - The Jester Race,"February 20, 1996",Melodic Death Metal,95
+364,365 ,The House of Love - The House of Love,"January 1, 1988",Jangle Pop,95
+365,366 ,Roy Harper - Stormcock,"January 1, 1971",Folk,95
+366,367 ,The Jam - All Mod Cons,"November 3, 1978",Power Pop,95
+367,368 ,Fairport Convention - Liege & Lief,"December 1, 1969",Folk Rock,95
+368,369 ,Eric Clapton - Slowhand,"November 1, 1977",Blues Rock,95
+369,370 ,Motörhead - Ace of Spades,"November 8, 1980",Heavy Metal,95
+370,371 ,Yes - Close to the Edge,"September 13, 1972",Progressive Rock,95
+371,372 ,Big Star - Radio City,"February 1, 1974",Power Pop,95
+372,373 ,Fastbacks - Zücker,"January 29, 1993",Unknown,95
+373,374 ,Prefab Sprout - Steve McQueen,"June 1, 1985",Pop Rock,95
+374,375 ,The Yardbirds - Roger the Engineer,"July 15, 1966",Blues Rock,95
+375,376 ,Bad Brains - Bad Brains,"February 1, 1982",Hardcore Punk,95
+376,377 ,Jellyfish - Spilt Milk,"February 9, 1993",Power Pop,95
+377,378 ,"Arrested Development - 3 Years, 5 Months & 2 Days in the Life Of...","March 24, 1992",Hip Hop,95
+378,379 ,"The Kinks - Lola Versus Powerman and the Moneygoround, Part One","November 27, 1970",Pop Rock,95
+379,380 ,Dark Tranquillity - The Gallery,"November 27, 1995",Melodic Death Metal,95
+380,381 ,Elliott Smith - Elliott Smith,"July 21, 1995",Singer-Songwriter,95
+381,382 ,Rod Stewart - Gasoline Alley,"June 1, 1970",Blues Rock,95
+382,383 ,Etta James - At Last!,"November 15, 1960",Soul,95
+383,384 ,Ian Dury - New Boots and Panties!!,"September 30, 1977",Punk Rock,95
+384,385 ,Ani DiFranco - Not a Pretty Girl,"July 18, 1995",Unknown,95
+385,386 ,X - Wild Gift,"May 1, 1981",Punk Rock,95
+386,387 ,Kate Bush - Hounds of Love,"September 16, 1985",Art Pop,95
+387,388 ,Spacemen 3 - The Perfect Prescription,"September 0, 1987",Space Rock,95
+388,389 ,The Fall - This Nation's Saving Grace,"September 23, 1985",Post-Punk,95
+389,390 ,Bob Marley & The Wailers - Catch a Fire,"April 13, 1973",Reggae,95
+390,391 ,Hüsker Dü - Flip Your Wig,"September 1, 1985",Alternative Rock,95
+391,392 ,Alice in Chains - Dirt,"September 29, 1992",Grunge,95
+392,393 ,The Jesus Lizard - Goat,"February 21, 1991",Noise Rock,95
+393,394 ,Kendrick Lamar - To Pimp a Butterfly,"March 16, 2015",Hip Hop,95
+394,395 ,Primal Scream - Screamadelica,"September 23, 1991",Alternative Dance,95
+395,396 ,Fiona Apple - Fetch the Bolt Cutters,"April 17, 2020",Art Pop,95
+396,397 ,Van Morrison - Moondance,"February 28, 1970",Singer-Songwriter,95
+397,398 ,Brian Eno - Ambient 1: Music For Airports,"March 1, 1978",Ambient,95
+398,399 ,R.E.M. - Murmur,"April 12, 1983",Alternative Rock,95
+399,400 ,The Gospel Youth - Always Lose,"July 14, 2017",Unknown,95
+400,401 ,Merle Haggard - Hag,"January 1, 1971",Country,95
+401,402 ,Merle Haggard - Someday We'll Look Back,"January 1, 1971",Country,95
+402,403 ,Parliament - Mothership Connection,"December 15, 1975",Funk,94
+403,404 ,Gene Clark - No Other,"September 1, 1974",Country Rock,94
+404,405 ,Jay-Z - Reasonable Doubt,"June 25, 1996",Hip Hop,94
+405,406 ,N.W.A. - Straight Outta Compton,"August 8, 1988",Hip Hop,94
+406,407 ,The Dismemberment Plan - Emergency & I,"October 26, 1999",Indie Rock,94
+407,408 ,David Bowie - Low,"January 14, 1977",Art Rock,94
+408,409 ,Beastie Boys - Paul's Boutique,"July 25, 1989",Hip Hop,94
+409,410 ,The Wrens - The Meadowlands,"September 9, 2003",Indie Rock,94
+410,411 ,Cécile McLorin Salvant - Dreams and Daggers,"September 29, 2017",Vocal Jazz,94
+411,412 ,Leonard Cohen - Songs of Leonard Cohen,"December 27, 1967",Folk,94
+412,413 ,Stars of the Lid - The Tired Sounds of Stars of the Lid,"October 29, 2001",Ambient,94
+413,414 ,Darkthrone - A Blaze In the Northern Sky,"February 26, 1992",Black Metal,94
+414,415 ,Black Flag - Damaged,"December 5, 1981",Hardcore Punk,94
+415,416 ,Sonny Rollins - Way Out West,"January 1, 1957",Jazz,94
+416,417 ,Merle Haggard - Swinging Doors and the Bottle Let Me Down,"January 1, 1966",Country,94
+417,418 ,Sweet Trip - Velocity : Design : Comfort,"June 17, 2003",IDM,94
+418,419 ,Cheap Trick - Cheap Trick,"February 1, 1977",Hard Rock,94
+419,420 ,808 State - Newbuild,"January 1, 1988",Acid House,94
+420,421 ,Yes - Fragile,"November 26, 1971",Progressive Rock,94
+421,422 ,Can - Future Days,"August 1, 1973",Krautrock,94
+422,423 ,Elvis Costello & The Attractions - Armed Forces,"January 5, 1979",New Wave,94
+423,424 ,The Kinks - The Kinks Are The Village Green Preservation Society,"November 22, 1968",Rock,94
+424,425 ,Gang of Four - Entertainment!,"September 1, 1979",Post-Punk,94
+425,426 ,Ramones - Leave Home,"January 10, 1977",Punk Rock,94
+426,427 ,Brian Eno - Here Come the Warm Jets,"January 1, 1974",Art Rock,94
+427,428 ,The Beatles - With The Beatles,"November 22, 1963",Pop Rock,94
+428,429 ,Mastodon - Leviathan,"August 31, 2004",Progressive Metal,94
+429,430 ,Our Native Daughters - Songs of Our Native Daughters,"February 22, 2019",Americana,94
+430,431 ,The KLF - The White Room,"March 4, 1991",Acid House,94
+431,432 ,Big Star - #1 Record,"April 1, 1972",Power Pop,94
+432,433 ,Rage Against The Machine - Rage Against The Machine,"November 3, 1992",Alternative Metal,94
+433,434 ,Suicide - Suicide,"December 28, 1977",No Wave,94
+434,435 ,My Bloody Valentine - Isn't Anything,"November 1, 1988",Shoegaze,94
+435,436 ,Nas - Illmatic,"April 19, 1994",Hip Hop,94
+436,437 ,Radiohead - OK Computer,"June 16, 1997",Alternative Rock,94
+437,438 ,Burial - Untrue,"November 6, 2007",Dubstep,94
+438,439 ,The Beatles - Please Please Me,"March 22, 1963",Pop Rock,94
+439,440 ,Blood Incantation - Hidden History of the Human Race,"November 22, 2019",Death Metal,94
+440,441 ,Michael Jackson - Thriller,"November 30, 1982",Pop,94
+441,442 ,Björk - Post,"June 13, 1995",Art Pop,94
+442,443 ,Cybotron - Enter,"January 1, 1983",Electro,94
+443,444 ,Keith Fullerton Whitman - Playthroughs,"October 21, 2002",Ambient,94
+444,445 ,Mekons - Fear and Whiskey,"June 1, 1985",Post-Punk,94
+445,446 ,Little Feat - Rad Gumbo: The Complete Warner Bros. Years 1971-1990,"February 24, 2014",Unknown,93
+446,447 ,David Axelrod - Song of Innocence,"October 0, 1968",Psychedelic Rock,93
+447,448 ,Black Foxxes - I'm Not Well,"August 19, 2016",Alternative Rock,93
+448,449 ,Un Blonde - Good Will Come to You,"May 30, 2016",Neo-Soul,93
+449,450 ,Fleetwood Mac - Fleetwood Mac,"July 11, 1975",Pop Rock,93
+450,451 ,John Martyn - Solid Air,"February 1, 1973",Singer-Songwriter,93
+451,452 ,Orbital - Orbital 2,"May 24, 1993",Techno,93
+452,453 ,Frank Sinatra - Frank Sinatra Sings for Only the Lonely,"September 1, 1958",Vocal Jazz,93
+453,454 ,Eagles - Hotel California,"December 8, 1976",Pop Rock,93
+454,455 ,Miles Davis - 'Round About Midnight,"March 6, 1957",Jazz,93
+455,456 ,Frank Sinatra - September of My Years,"August 1, 1965",Vocal Jazz,93
+456,457 ,Def Leppard - Hysteria,"August 3, 1987",Hard Rock,93
+457,458 ,The Raincoats - The Raincoats,"November 3, 1979",Post-Punk,93
+458,459 ,Black Sheep - A Wolf In Sheep's Clothing,"October 22, 1991",Hip Hop,93
+459,460 ,Otis Redding - Otis Blue / Otis Redding Sings Soul,"September 15, 1965",Soul,93
+460,461 ,The Byrds - Sweetheart of the Rodeo,"August 30, 1968",Country,93
+461,462 ,Elvis Costello & The Attractions - Trust,"January 23, 1981",Pop Rock,93
+462,463 ,Elvis Costello & The Attractions - Imperial Bedroom,"July 2, 1982",Pop Rock,93
+463,464 ,Frank Sinatra - In the Wee Small Hours,"April 1, 1955",Vocal Jazz,93
+464,465 ,Hüsker Dü - Zen Arcade,"July 1, 1984",Hardcore Punk,93
+465,466 ,The Velvet Underground - The Velvet Underground,"March 1, 1969",Pop Rock,93
+466,467 ,Randy Newman - Sail Away,"May 1, 1972",Singer-Songwriter,93
+467,468 ,Blondie - Parallel Lines,"September 1, 1978",New Wave,93
+468,469 ,Goldie - Timeless,"September 12, 1995",Drum and Bass,93
+469,470 ,Miles Davis - Sketches of Spain,"July 18, 1960",Jazz,93
+470,471 ,Marvin Gaye - What's Going On,"May 21, 1971",Soul,93
+471,472 ,The Doors - The Doors,"January 4, 1967",Psychedelic Rock,93
+472,473 ,Dr. Dre - The Chronic,"December 15, 1992",Hip Hop,93
+473,474 ,Marius Neset - Golden Xplosion,"May 17, 2011",Jazz,93
+474,475 ,Unwound - Leaves Turn Inside You,"April 17, 2001",Post-Hardcore,93
+475,476 ,Bruce Springsteen - Darkness on the Edge of Town,"June 2, 1978",Rock,93
+476,477 ,Prince - 1999,"October 27, 1982",Funk,93
+477,478 ,Soundgarden - Superunknown,"March 8, 1994",Alternative Rock,93
+478,479 ,Cat Power - Moon Pix,"September 22, 1998",Singer-Songwriter,93
+479,480 ,Underworld - Dubnobasswithmyheadman,"January 24, 1994",Techno,93
+480,481 ,PJ Harvey - Dry,"June 30, 1992",Alternative Rock,93
+481,482 ,The KLF - Chill Out,"February 5, 1990",Ambient,93
+482,483 ,Alan Moore - Unearthing,"August 31, 2010",Unknown,93
+483,484 ,Faust - So Far,"July 1, 1972",Krautrock,93
+484,485 ,Flower Travellin' Band - Satori,"April 25, 1971",Heavy Psych,93
+485,486 ,Meursault - Pissing on Bonfires/Kissing with Tongues,"December 15, 2008",Unknown,93
+486,487 ,The Fall - The Wonderful and Frightening World Of...,"October 8, 1984",Post-Punk,93
+487,488 ,The Flying Burrito Brothers - The Gilded Palace of Sin,"February 1, 1969",Country,93
+488,489 ,Beck - Odelay,"June 18, 1996",Alternative Rock,93
+489,490 ,Funkadelic - Maggot Brain,"July 1, 1971",Funk Rock,93
+490,491 ,Deee-Lite - World Clique,"August 7, 1990",Dance Pop,93
+491,492 ,Pavement - Slanted and Enchanted,"April 20, 1992",Indie Rock,93
+492,493 ,My Bloody Valentine - Loveless,"November 4, 1991",Shoegaze,93
+493,494 ,The Flaming Lips - The Soft Bulletin,"June 22, 1999",Neo-Psychedelia,93
+494,495 ,Elton John - Goodbye Yellow Brick Road,"October 5, 1973",Pop Rock,93
+495,496 ,Metro Area - Metro Area,"October 22, 2002",Nu-Disco,93
+496,497 ,Eric B. & Rakim - Paid in Full,"July 7, 1987",Hip Hop,93
+497,498 ,Beastie Boys - Licensed to Ill,"November 15, 1986",Hip Hop,93
+498,499 ,Mary Gauthier - Rifles & Rosary Beads,"January 26, 2018",Americana,93
+499,500 ,Agalloch - Ashes Against the Grain,"August 8, 2006",Folk Metal,93
